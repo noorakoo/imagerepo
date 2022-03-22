@@ -93,6 +93,7 @@ def index():
    S += f"        <th>Title</th>\n"
    S += f"        <th>Link</th>\n"
    S += f"        <th>Description</th>\n"
+   S += f"        <th></th>\n"
    S += f"     </tr>\n"
    for (title, link, descript) in test_table():
       S += f"     <tr>\n"
