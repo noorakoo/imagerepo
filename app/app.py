@@ -118,7 +118,7 @@ def index():
 
 def style():
     S  = "<style>\n"
-    S += "   body {width: 75%; align-content: center; margin: 0 auto; padding: 15px; background-color: #F4EEE9; color: #3A4E4F; font-family: Arial, Helvetica, sans-serif;}\n"
+    S += "   body {width: 80%; align-content: center; margin: 0 auto; padding: 15px; background-color: #F4EEE9; color: #3A4E4F; font-family: Arial, Helvetica, sans-serif;}\n"
     S += "   th {background-color: #8CACA2;}"
     S += "   td {padding-right: 20px;}"
     S += "   a {color: #3A4E4F;}"
